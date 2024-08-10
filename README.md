@@ -19,7 +19,9 @@ PROYECTOS:
 Tecnologías: Power BI, SQL
 Resultados: Finalmente, creé visualizaciones interactivas y detalladas que permitieron identificar patrones y tendencias clave en los datos. Estas visualizaciones facilitaron la toma de decisiones estratégicas basadas en información precisa y actualizada.
 
-Ruta/al/informe.pbix
+Ruta/al/informe.pbix: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/Adventure_WC_PowerBI_MariaGomez_ProyectoIntegrador-Entrega%202.pbix 
+
+
 
 
 
