@@ -18,3 +18,11 @@ PROYECTOS:
  Descripción: En este proyecto, utilicé la base de datos AdventureWorks2019 para realizar un análisis completo de datos. Comencé cargando los datos en Power BI, donde llevé a cabo un proceso exhaustivo de limpieza y transformación de datos para asegurar su calidad y consistencia.
 Tecnologías: Power BI, SQL
 Resultados: Finalmente, creé visualizaciones interactivas y detalladas que permitieron identificar patrones y tendencias clave en los datos. Estas visualizaciones facilitaron la toma de decisiones estratégicas basadas en información precisa y actualizada.
+
+Ruta/al/informe.pbix
+
+
+
+
+
+
