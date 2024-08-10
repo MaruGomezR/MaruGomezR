@@ -37,6 +37,11 @@ Código Python: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/
 Dashboard Power BI: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/DA_M4_MariaEugenia_Gomez_Avance4.pbix
 
 
+DATOS DE CONTACTO
+
+- Venezuela
+- Linkedin: www.linkedin.com/in/maria-eugenia-gomez-rodriguez-895691178
+
 
 
 
