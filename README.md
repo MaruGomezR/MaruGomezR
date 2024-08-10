@@ -33,6 +33,9 @@ Resultados: A través de los insights obtenidos de las visualizaciones, diseñam
 
 Archivos del Proyecto:
 
+Código Python: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/PIDA_M4_MariaEugenia_Gomez.ipynb
+Dashboard Power BI: 
+
 
 
 
