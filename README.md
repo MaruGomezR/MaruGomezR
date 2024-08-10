@@ -1,9 +1,5 @@
 Hola, soy Maria Eugenia!!!
 
-URL de la imagen: https://github.com/user-attachments/assets/f6db6aba-1438-4f71-bca8-e9c792ad9ed3
-
-
-
 
 
 SOBRE MI:
