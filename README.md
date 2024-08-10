@@ -1,6 +1,6 @@
 Hola, soy Maria Eugenia!!!
 
-https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/IMAGEN%20GITHUB.jpeg
+
 
 SOBRE MI:
 
