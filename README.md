@@ -21,6 +21,8 @@ Resultados: Finalmente, creé visualizaciones interactivas y detalladas que perm
 
 Ruta/al/informe.pbix: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/Adventure_WC_PowerBI_MariaGomez_ProyectoIntegrador-Entrega%202.pbix 
 
+Ruta/al/informe.dock: DA_MariaGomez_PIM4_InformeDescriptivo.docx
+
 
 
 
