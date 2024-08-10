@@ -23,6 +23,10 @@ Ruta/al/informe.pbix: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob
 
 Ruta/al/informe.dock: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/DA_MariaGomez_PIM4_InformeDescriptivo.docx
 
+2- BIOGENESYS ESTRATEGIAS DE EXPANSION
+
+
+
 
 
 
