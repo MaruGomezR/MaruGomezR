@@ -1,5 +1,5 @@
-Hola, soy Maria Eugenia!!!
-
+Hola!!!
+Mi nombre es Maria Eugenia y soy Data Analist. 
 
 
 SOBRE MI:
@@ -42,6 +42,7 @@ Dashboard Power BI: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/m
 DATOS DE CONTACTO
 
 - Venezuela
+- marugomezh@gmail.com
 - Linkedin: www.linkedin.com/in/maria-eugenia-gomez-rodriguez-895691178
 
 
