@@ -13,9 +13,11 @@ Durante muchos años trabajé en una granja camaronera con fines comerciales don
 QUE TECNOLOGIAS USO:
 
 Excel
-Microsoft SQL Server
-Power BI
-Python
+Microsoft SQL Server,
+
+Power BI,
+
+Python.
 
 PROYECTOS:
 
