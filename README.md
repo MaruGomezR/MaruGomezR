@@ -12,7 +12,8 @@ Durante muchos años trabajé en una granja camaronera con fines comerciales don
 
 QUE TECNOLOGIAS USO:
 
-Excel
+Excel,
+
 Microsoft SQL Server,
 
 Power BI,
