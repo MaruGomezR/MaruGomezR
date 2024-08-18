@@ -1,7 +1,8 @@
 Hola!!!
 Mi nombre es Maria Eugenia y soy Data Analist. 
 
-![image](https://github.com/user-attachments/assets/ee0c0d45-f482-42da-b5c7-4ecbb97aa535)
+![image](https://github.com/user-attachments/assets/24936acf-2169-48d9-9230-70bdf38a6752)
+
 
 
 
