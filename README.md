@@ -37,7 +37,12 @@ Resultados: Finalmente, creé visualizaciones interactivas y detalladas que perm
 
 2- BIOGENESYS ESTRATEGIAS DE EXPANSION: 
 
-![image](https://github.com/user-attachments/assets/546fd13f-6001-4b32-b428-169f2065b585)
+![image](https://github.com/user-attachments/assets/91f4ba59-7e87-49d9-99c8-c8dfb32f0a73)
+![image](https://github.com/user-attachments/assets/b20f0575-f9f5-4921-aba1-6e5a8bfd5367)
+![image](https://github.com/user-attachments/assets/d84af3e4-c25a-4b70-b641-eaadda00f0e9)
+
+
+
 
 
 Descripción: En este proyecto, trabajamos con un dataset que incluía datos de la epidemia de COVID-19 para países de América Latina. El objetivo era leer los datos utilizando código en Python, realizar procesos de ETL (Extracción, Transformación y Carga), y luego llevar a cabo un Análisis Exploratorio de Datos (EDA). Finalmente, importamos los datos limpios a Power BI para crear visualizaciones interactivas.
