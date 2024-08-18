@@ -37,6 +37,9 @@ Resultados: Finalmente, creé visualizaciones interactivas y detalladas que perm
 
 2- BIOGENESYS ESTRATEGIAS DE EXPANSION: 
 
+![image](https://github.com/user-attachments/assets/546fd13f-6001-4b32-b428-169f2065b585)
+
+
 Descripción: En este proyecto, trabajamos con un dataset que incluía datos de la epidemia de COVID-19 para países de América Latina. El objetivo era leer los datos utilizando código en Python, realizar procesos de ETL (Extracción, Transformación y Carga), y luego llevar a cabo un Análisis Exploratorio de Datos (EDA). Finalmente, importamos los datos limpios a Power BI para crear visualizaciones interactivas.
 Tecnologías: Python con sus librerias Pandas, Numpy, Matplotlip, Seaborne.  Power BI
 Resultados: A través de los insights obtenidos de las visualizaciones, diseñamos una estrategia de expansión para nuevos laboratorios farmacéuticos en la región. Este análisis permitió identificar las áreas con mayor necesidad y potencial de crecimiento, facilitando la toma de decisiones estratégicas para la expansión de BIOGENESYS.
