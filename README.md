@@ -16,6 +16,8 @@ Python
 PROYECTOS:
 
 1- ADVENTURE WORK CYCLE: 
+![image](https://github.com/user-attachments/assets/fbce0520-ca0e-4738-bb7e-2a9022ea715c)
+
 
  Descripción: En este proyecto, utilicé la base de datos AdventureWorks2019 para realizar un análisis completo de datos. Comencé cargando los datos en Power BI, donde llevé a cabo un proceso exhaustivo de limpieza y transformación de datos para asegurar su calidad y consistencia.
 Tecnologías: Power BI, SQL
