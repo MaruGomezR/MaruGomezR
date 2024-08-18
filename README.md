@@ -16,18 +16,19 @@ Python
 PROYECTOS:
 
 1- ADVENTURE WORK CYCLE: 
-![image](https://github.com/user-attachments/assets/fbce0520-ca0e-4738-bb7e-2a9022ea715c)
+
+![image](https://github.com/user-attachments/assets/c7df93a9-e4ec-436b-b47a-bc4599cc52b9)
 
 
- Descripción: En este proyecto, utilicé la base de datos AdventureWorks2019 para realizar un análisis completo de datos. Comencé cargando los datos en Power BI, donde llevé a cabo un proceso exhaustivo de limpieza y transformación de datos para asegurar su calidad y consistencia.
-Tecnologías: Power BI, SQL
+Descripción: En este proyecto, utilicé la base de datos AdventureWorks2019 para realizar un análisis completo de datos. Comencé cargando los datos en Power BI, donde llevé a cabo un proceso exhaustivo de limpieza y transformación de datos para asegurar su calidad y consistencia.
+
+Tecnologías:
+Power BI, 
+SQL.
+
 Resultados: Finalmente, creé visualizaciones interactivas y detalladas que permitieron identificar patrones y tendencias clave en los datos. Estas visualizaciones facilitaron la toma de decisiones estratégicas basadas en información precisa y actualizada.
 
-Archivos del Proyecto:
 
-Ruta/al/informe.pbix: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/Adventure_WC_PowerBI_MariaGomez_ProyectoIntegrador-Entrega%202.pbix 
-
-Ruta/al/informe.dock: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/DA_MariaGomez_PIM4_InformeDescriptivo.docx
 
 2- BIOGENESYS ESTRATEGIAS DE EXPANSION: 
 
