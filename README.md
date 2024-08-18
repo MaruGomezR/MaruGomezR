@@ -17,7 +17,12 @@ PROYECTOS:
 
 1- ADVENTURE WORK CYCLE: 
 
-![image](https://github.com/user-attachments/assets/c7df93a9-e4ec-436b-b47a-bc4599cc52b9)
+![image](https://github.com/user-attachments/assets/b6a27538-ab06-4acb-b842-0b9b816fa99f)
+![image](https://github.com/user-attachments/assets/084913d9-b124-4509-9296-e3f810991810)
+![image](https://github.com/user-attachments/assets/dc9e35c6-a379-4aa5-81e4-042a71ad8598)
+
+
+
 
 
 Descripción: En este proyecto, utilicé la base de datos AdventureWorks2019 para realizar un análisis completo de datos. Comencé cargando los datos en Power BI, donde llevé a cabo un proceso exhaustivo de limpieza y transformación de datos para asegurar su calidad y consistencia.
