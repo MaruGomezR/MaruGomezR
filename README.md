@@ -56,6 +56,9 @@ Descripción: En este proyecto, trabajamos con un dataset que incluía datos de 
 Tecnologías: Python con sus librerias Pandas, Numpy, Matplotlip, Seaborne.  Power BI
 Resultados: A través de los insights obtenidos de las visualizaciones, diseñamos una estrategia de expansión para nuevos laboratorios farmacéuticos en la región. Este análisis permitió identificar las áreas con mayor necesidad y potencial de crecimiento, facilitando la toma de decisiones estratégicas para la expansión de BIOGENESYS.
 
+Código Python: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/PIDA_M4_MariaEugenia_Gomez.ipynb Dashboard Power BI: https://github.com/Marucitabeep/Maria-Eugenia-Gomez-R/blob/main/DA_M4_MariaEugenia_Gomez_Avance4.pbix
+
+
 DATOS DE CONTACTO
 
 - Venezuela
